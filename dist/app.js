@@ -1126,7 +1126,7 @@
       this.el.classList.add("header");
       this.el.innerHTML = `
 			<div>
-				<img src="static/logo.svg" alt="Логотип" />
+				<img src="static/Logo.svg" alt="Логотип" />
 			</div>
 			<div class="menu">
 				<a class="menu__item" href="#">
